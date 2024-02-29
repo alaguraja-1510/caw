@@ -1,0 +1,24 @@
+{
+
+    "viewportHeight": 760,
+    "viewportWidth": 370,
+    "pageLoadTimeout": 50000,
+    "requestTimeout": 30000,
+    "chromeWebSecurity": false,
+    "WebSecurity": false,
+    "experimentalStudio": true,
+    "baseUrl": "https://kbuatauto19mix-pwa-ios.kreditbee.dev/",
+    "Baseurl-IOS":"https://kbuatauto19mix-pwa-ios.kreditbee.dev/",
+    "projectId": "kb200",
+    "videosFolder": "cypress/videos",
+    "screenshots": true,
+    "video": false,
+    "retries": 0,
+    "videoUploadOnPasses": false,
+    "videoCompression": 32,
+    "watchForFileChanges": false,
+    "trashAssetsBeforeRuns": true,
+    "env": {
+        "failSilently": false
+           }
+}

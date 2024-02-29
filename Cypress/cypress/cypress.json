@@ -1,0 +1,29 @@
+{
+    "nodeVersion": "system",
+    "viewportHeight": 1200,
+    "viewportWidth": 660,
+    "pageLoadTimeout": 30000,
+    "requestTimeout": 30000,
+    "defaultCommandTimeout": 2000,
+    "chromeWebSecurity": false,
+    "WebSecurity": false,
+    "experimentalStudio": true,
+    "baseUrl": "https://kbuatman225app.buynsta.com/",
+    "Baseurl-IOS":"https://kbuatauto07mix-pwa-ios.kreditbee.dev/",
+    "projectId": "kb200",
+    "videosFolder": "cypress/videos",
+    "video": true,
+    "retries": 0,
+    "videoUploadOnPasses": true,
+    "videoCompression": 32,
+    "watchForFileChanges": false,
+    "trashAssetsBeforeRuns": true,
+    "db": {
+        "host": "10.105.60.89",
+        "user": "root",
+        "password": "kb@123"
+      },
+    "env": {
+        "failSilently": false
+           }
+}
